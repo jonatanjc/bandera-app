@@ -1,3 +1,7 @@
+ERROR EN EL REPOSITORIO ANTERIOR NO SE PODIA VISUALISAR EL CODIGO 
+![image](https://github.com/jonatanjc/bandera-app/assets/116099503/ec54887d-2a8a-481f-9e66-c635f7cce51a)
+
+
 ![image](https://github.com/jonatanjc/bandera-app/assets/116099503/a189e385-6b67-4846-aa75-eeecd33496fa)
 
 Avance en clase 
